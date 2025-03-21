@@ -1,7 +1,5 @@
 ## Hi, I'm Donata 👋
-
 ## I'm a web and mobile developer
-
 ## I follow a formation at Epitech Paris
 
 ## 🌐 Socials:
